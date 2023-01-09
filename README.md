@@ -14,9 +14,5 @@ Requires tree structure as follows:
     │   └── violations
     
     └── data
-    
-        ├── ...
         
-        ├── crashes
-        
-        └── violations
+        └── ...
